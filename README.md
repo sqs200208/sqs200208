@@ -12,12 +12,12 @@ You can click the Preview link to take a look at your changes.
 ## Markdown 语法
 ### Markdown标题
 + 使用'#'来建立标题，标题分为不同级别。
-例如:
-#一级标题
-##二级标题
-###三级标题
-####四级标题
-#####五级标题
+例如:  
+#一级标题  
+##二级标题  
+###三级标题  
+####四级标题  
+#####五级标题  
 ######六级标题
 
 ### Markdown段落
